@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 5ab95c3cf82b5e14bb16a024f34e0eaf
+  - enabled: 1
+    path: Assets/Scenes/2D Platformer.unity
+    guid: af65cb6cdb9db2c4fa71163cb0a5b651
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Multiplayer.unity
+    guid: 46a604a9ce6455946aa5a299b96c7ca0
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: 5e6b41c61523d4f44902ac9530a13a94
+  - enabled: 1
+    path: Assets/Scenes/WinScreen2.unity
+    guid: efc70426d466d7d478ef7fa33a38bcd8
+  - enabled: 1
+    path: Assets/Scenes/ChooseLevel.unity
+    guid: 8b546bb897c338142bd40c9e04452978
+  - enabled: 1
+    path: Assets/Scenes/lvl2.unity
+    guid: bb55c6765ea6d93408f0097c9b9a999b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/mchtrnk.unity
+    guid: c62e0a73abd1b02468066fadd620b35d
+  - enabled: 1
+    path: Assets/Scenes/WinScreenEqual.unity
+    guid: c442cd75fa24d9742ad6bdefa278bc3a
+  - enabled: 1
+    path: Assets/Scenes/CharacterChoose.unity
+    guid: f440c4d7564333c43865b79aef2dab59
